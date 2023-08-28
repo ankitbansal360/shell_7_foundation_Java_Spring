@@ -10,9 +10,9 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "ankit-features" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "ankit-features" ]
 
 jobs:
   build:
